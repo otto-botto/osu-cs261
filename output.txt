@@ -1,0 +1,3 @@
+lora.dushanova@lora Assignment0 % python3 system_test.py 
+This is an acceptable version of Python, version 3.10.
+lora.dushanova@lora Assignment0 % 
